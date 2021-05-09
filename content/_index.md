@@ -1,5 +1,5 @@
 ---
-title: 'Luvz.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: 'Luvz.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "This website is under construction."
 ---
 
